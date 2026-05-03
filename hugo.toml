@@ -1,0 +1,4 @@
+baseURL = 'https://blog.onon1101.org/'
+locale = 'zh-tw'
+title = "onon1101's blog"
+theme = "PaperMod"
